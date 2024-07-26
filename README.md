@@ -52,4 +52,4 @@ This project demonstrates the application of SQL for detailed data analysis, pro
 
 
 ### Thanks to the providers of the pizza sales dataset.
-### Special thanks to all contributors to the project.@ayushi jain @wscube Tech
+### Special thanks to all contributors to the project.
